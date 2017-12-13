@@ -1,0 +1,13 @@
+{
+  "name": "delete-pat-repos",
+  "version": "1.0.0",
+  "description": "delete Pat repos",
+  "main": "index.js",
+  "author": "gajananpp",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.17.1",
+    "jenkins": "^0.20.1"
+  }
+}
